@@ -1,0 +1,17 @@
+name: viz
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - scipy
+  - pandas 
+  - vtk
+  - vedo
+  - graphviz
+  - python-graphviz
+  - matplotlib 
+  - notebook 
+  - nb_conda_kernels
+  - pip:
+    - pyan3
+    - pandoc
