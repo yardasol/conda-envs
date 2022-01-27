@@ -12,7 +12,10 @@ dependencies:
   - matplotlib 
   - notebook 
   - nb_conda_kernels
+  - folium
   - pip:
     - pyan3
     - pandoc
     - beautifulsoup4
+    - requests
+    - lxml
