@@ -14,6 +14,7 @@ dependencies:
   - nb_conda_kernels
   - folium
   - pip:
+    - pylint
     - pyan3
     - pandoc
     - beautifulsoup4
