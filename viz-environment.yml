@@ -15,6 +15,7 @@ dependencies:
   - folium
   - statsmodels
   - pip:
+    - pylint
     - pyan3
     - pandoc
     - beautifulsoup4
