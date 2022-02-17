@@ -13,7 +13,7 @@ dependencies:
   - notebook 
   - nb_conda_kernels
   - folium
-  - statsmodels
+  - statsmodels=0.13.2
   - pip:
     - pylint
     - pyan3
