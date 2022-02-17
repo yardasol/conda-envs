@@ -14,6 +14,10 @@ dependencies:
   - nb_conda_kernels
   - folium
   - statsmodels=0.13.2
+  - pymc3
+  - theano-pymc
+  - mkl
+  - mkl-service
   - pip:
     - pylint
     - pyan3
