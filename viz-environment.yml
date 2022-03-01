@@ -18,6 +18,7 @@ dependencies:
   - theano-pymc
   - mkl
   - mkl-service
+  - glob2
   - pip:
     - pylint
     - pyan3
