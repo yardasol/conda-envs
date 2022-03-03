@@ -19,6 +19,7 @@ dependencies:
   - mkl
   - mkl-service
   - glob2
+  - skikit-learn
   - pip:
     - pylint
     - pyan3
